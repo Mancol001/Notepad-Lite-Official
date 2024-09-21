@@ -1,5 +1,5 @@
 # Notepad Lite
-Made my Mancol001
+Made by Mancol001
 
 # Features:
 Open File
